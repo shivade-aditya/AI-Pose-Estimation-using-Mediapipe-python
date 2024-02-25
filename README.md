@@ -1,1 +1,1 @@
-# Gym-Tracking-Sytem
+# AI Pose Estimation using Mediapipe & python
